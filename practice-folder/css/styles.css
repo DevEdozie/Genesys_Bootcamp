@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+#header1 {
+  color: blue;
+  text-align: center;
+}
+
+.header2 {
+  color: purple;
+  text-align: center;
+}
+
+h2,
+h3 {
+  text-align: center;
+  border: 2px black solid;
+}
+
+/*
+SELECTORS
+CLASS
+ID
+COLORS- RGB, HEX ,HSL, RGBA, HSLA
+BACKGROUNDS - colors, image, repeat
+BORDERS
+*/
