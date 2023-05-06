@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+
+.main {
+  padding: 1rem;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+#header-section-name {
+  margin-bottom: 10px;
+}
+
+.image-section-image {
+  margin: 0.5rem;
+}
+
+.image-section {
+  padding: 1rem;
+  background-color: white;
+}
+
+.life-details-section {
+  width: 50%;
+  margin: auto;
+}
+
+ul li {
+  text-align: start;
+  line-height: 3;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+a {
+  color: rgb(9, 59, 59);
+}
+
+.comment-section-text {
+  width: 50%;
+  text-align: center;
+}

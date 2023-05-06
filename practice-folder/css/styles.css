@@ -5,23 +5,9 @@
 }
 
 body {
+  
 }
 
-#header1 {
-  color: green;
-  text-align: center;
-}
-
-.header2 {
-  color: purple;
-  text-align: center;
-}
-
-h2,
-h3 {
-  text-align: center;
-  border: 2px black solid;
-}
 
 /*
 SELECTORS
