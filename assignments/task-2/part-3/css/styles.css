@@ -5,6 +5,7 @@
 }
 
 body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   padding-left: 10px;
   padding-right: 20px;
   padding-top: 20px;
@@ -39,6 +40,7 @@ body {
 ul li {
   text-align: start;
   line-height: 3;
+  font-size: 14px;
 }
 
 ul {
@@ -46,10 +48,18 @@ ul {
 }
 
 a {
-  color: rgb(9, 59, 59);
+  color: rgb(18, 112, 112);
+}
+
+.comment-section {
+  font-size: 14px;
 }
 
 .comment-section-text {
-  width: 50%;
-  text-align: center;
+  margin-left: 20rem;
+  width: 30vw;
+}
+
+.bottom-section {
+  padding-top: 1rem;
 }
